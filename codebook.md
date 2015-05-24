@@ -1,13 +1,13 @@
 # Codebook
 
 ### Variables
-X, Y, S: Data frames from test and train data, and its combined data.
-featuresNames: feature names from feature.txt
-meanAndStdDev: featureNames contains mean or std in its name
-filteredData: Filtered Data with mean and standard deviation
-activityNames: Activiy labels pulled from text file
-activity: Factor data from Y data frame which will be revised to activity names
-filteredFeaturesNames: filtered data which only contains mean or std data sets.
+* X, Y, S: Data frames from test and train data, and its combined data.
+* featuresNames: feature names from feature.txt
+* meanAndStdDev: featureNames contains mean or std in its name
+* filteredData: Filtered Data with mean and standard deviation
+* activityNames: Activiy labels pulled from text file
+* activity: Factor data from Y data frame which will be revised to activity names
+* filteredFeaturesNames: filtered data which only contains mean or std data sets.
 
 
 ### The code consists of five sections.
